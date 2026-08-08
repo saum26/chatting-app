@@ -5,6 +5,7 @@ import { BottomNav } from "@/components/bottom-nav"
 
 export default function Home() {
   return (
+    //this is the  main page of the app.
     <PhoneFrame>
       <StatusBar />
       <ChatList />
